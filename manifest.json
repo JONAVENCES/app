@@ -1,6 +1,6 @@
 {
-    "name": "JONA",
-    "short_name": "JONA",
+    "name": "TRIGONOMETRIA",
+    "short_name": "TRIGONO",
     "theme_color": "#2196f3",
     "background_color": "#2196f3",
     "display": "fullscreen",
@@ -9,7 +9,7 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./icono.png",
+            "src": "./logo.png",
             "type": "image/png",
             "sizes": "512x512"
         }
